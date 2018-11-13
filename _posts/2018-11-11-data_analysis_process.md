@@ -1,8 +1,8 @@
 ---
 layout : post
 title : "데이터 분석 과정"
-date : 2018-11-11 
-categories : DATA_SCIENCE
+date : 2018-11-11-14:20:11
+categories : Data_science
 permalink : data_analysis_process
 ---
 
