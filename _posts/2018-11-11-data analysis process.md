@@ -3,7 +3,7 @@ layout : post
 title : "데이터 분석 과정"
 date : 2018-11-11 
 categories : DATA_SCIENCE
-permalink : data_analysis_process.md
+permalink : data_analysis_process
 ---
 
 # 2018-11-11-데이터분석과정.md
