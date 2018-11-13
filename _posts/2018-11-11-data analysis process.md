@@ -3,7 +3,7 @@ layout : post
 title : "데이터 분석 과정"
 date : 2018-11-11 12:20:01
 categories : Data_science
-permalink : /archivers/python_lecture_01
+permalink : data analysis process.md
 ---
 
 # 2018-11-11-데이터분석과정.md
