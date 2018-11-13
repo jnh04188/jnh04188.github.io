@@ -9,4 +9,4 @@ image: /files/covers/first_post.jpg
 comments : true
 ---
 
-## 
+## disqus
