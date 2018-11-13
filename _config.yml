@@ -17,7 +17,7 @@ github_username:  jnh04188
 
 # Comment Service (Disqus or 多说)
 #  choose one and un-comment the line to active it
-disqus_shortname: jnh04188   # get one: https://disqus.com/admin/signup/
+disqus_shortname: jnh04188  # get one: https://disqus.com/admin/signup/
 #duoshuo_shortname: xxx  # get one: http://duoshuo.com/create-site/
 
 permalink: /archivers/:title
@@ -82,9 +82,9 @@ disqus_shortname:   taylantatli
 #email:
 twitter:            username
 facebook:           username
-github-url:         jnh04188@naver.com
+github-url:         username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          jnh04188@naver.com
+#linkedin:          username
 #xing:              username
 instagram:          username
 #lastfm:            username
@@ -116,6 +116,3 @@ jekyll-mentions:
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
-
-# Disqus
-discus-identifier: jnh04188 # add your discus identifier
