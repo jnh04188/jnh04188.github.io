@@ -41,7 +41,7 @@ kramdown:
 remote_theme : Taylan Talti/moon
 
 # Site
-title:              Moon
+title:              jnh04188's blog :)
 bio:                'Minimal, one column jekyll theme.'
 description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
