@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "수업중"
+date:   2018-11-06 16:20:01
+categories: Data_science
+permalink: /archivers/python_lecture_08
+---
+
 # 수업
 
 ## ppt.08  object oriented programming
