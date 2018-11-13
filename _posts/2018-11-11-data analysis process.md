@@ -6,7 +6,7 @@ categories : DATA_SCIENCE
 permalink : data_analysis_process
 ---
 
-# 2018-11-11-데이터분석과정.md
+# 2018-11-11-데이터분석과정
 
 ## data analysis process
 ## server에서 누적된 데이터와 실시간으로 발생하는 데이터를 병합하여 처리한다.
