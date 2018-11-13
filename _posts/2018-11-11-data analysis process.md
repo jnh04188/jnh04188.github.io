@@ -6,7 +6,7 @@ categories : Data_science
 permalink : /archivers/python_lecture_01
 ---
 
-# 데이터분석과정.md
+# 2018-11-11-데이터분석과정.md
 
 ## data analysis process
 ## server에서 누적된 데이터와 실시간으로 발생하는 데이터를 병합하여 처리한다.
