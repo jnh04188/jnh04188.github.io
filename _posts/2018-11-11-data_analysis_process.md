@@ -11,7 +11,10 @@ permalink : data_analysis_process
 ## data analysis process
 ## server에서 누적된 데이터와 실시간으로 발생하는 데이터를 병합하여 처리한다.
 
-     -데이터를 바로 분석하면서 이전 단계로 돌아가 피드백을 받을 수 있다. aws람다구조, 오픈소스람다구조, 구글클라우드람다구조, ms azure람다구조 등이 있다. 파이썬을 통해 데이터를 수집하고, string 연산 정규 표현식을 활용하여 csv파일로 정제한다. Desktop에서 처리하기 힘든 큰 규모의 데이터는 리눅스 서버에서 데이터 핸들링한다. 
+     -데이터를 바로 분석하면서 이전 단계로 돌아가 피드백을 받을 수 있다. 
+     -aws람다구조, 오픈소스람다구조, 구글클라우드람다구조, ms azure람다구조 등이 있다. 
+     -파이썬을 통해 데이터를 수집하고, string 연산 정규 표현식을 활용하여 csv파일로 정제한다. 
+     -Desktop에서 처리하기 힘든 큰 규모의 데이터는 리눅스 서버에서 데이터 핸들링한다. 
 
 ![image](https://blogfiles.pstatic.net/MjAxODExMTNfMjYx/MDAxNTQyMDkyMDQ5NTEw.tOUzbyysp27P04g5o2-DDT6YBEvQK45-eFmiCCuTO5sg.L8azYbP2Q_nH21dbIxLU57mEvGxsuAEDtyLoWQydz40g.PNG.jnh04188/1.png)
 
